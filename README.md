@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/normal-coder-gitee-mcp-server-badge.png)](https://mseep.ai/app/normal-coder-gitee-mcp-server)
+
 # Gitee MCP Server
 
 Let AI operate Gitee repositories/Issues/Pull Requests for you through MCP
